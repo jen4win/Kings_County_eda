@@ -12,7 +12,9 @@ Here the client is Jacob Phillips. He wants to buy a house with 4+ bathrooms, wh
 - The data is retrieved from the Postgres database SQL-Playground, which is the content of the notebook `Fetching_from_SQL.ipynb`.
 - All steps for answering the hypothesis by descriptive statistics and plotting are done in the notebook `main.ipynb`.
 - Data Cleaning can be followed in detail in the `Data_Cleaning.ipynb` notebook.  
+- For a description of the meaning of the columns the `column_names.md` file is added.
 - Some graphs are stored in the `graphs`-directory.
+- The final stakeholder presentation is also included in `House_Market_Report.pdf`.
 
 ## Note
 To execute the code correctly the appropriate environment needs to be installed. All required packages are given in `requirements.txt`.
